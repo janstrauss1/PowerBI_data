@@ -1,0 +1,11 @@
+﻿Code;ParentCode;Title;PATH;Section;Division;Group;Class;Subclass
+A;;Agriculture, forestry and fishing;A;A;;;;
+01;A;Crop and animal production, hunting and related service activities;A|01;A;01;;;
+011;01;Growing of non-perennial crops;A|01|011;A;01;011;;
+0111;011;Growing of cereals (except rice), leguminous crops and oil seeds;A|01|011|0111;A;01;011;0111;
+01110;0111;Growing of cereals (except rice), leguminous crops and oil seeds;A|01|011|0111|01110;A;01;011;0111;01110
+0112;011;Growing of rice;A|01|011|0112;A;01;011;0112;
+01120;0112;Growing of rice;A|01|011|0112|01120;A;01;011;0112;01120
+0113;011;Growing of vegetables and melons, roots and tubers;A|01|011|0113;A;01;011;0113;
+01131;0113;Growing of vegetables and melons;A|01|011|0113|01131;A;01;011;0113;01131
+01132;0113;Growing of potatoes and other roots and tubers;A|01|011|0113|01132;A;01;011;0113;01132
