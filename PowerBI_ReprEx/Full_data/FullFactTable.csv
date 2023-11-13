@@ -1,0 +1,1116 @@
+﻿Code WZ 2008;TitleInGerman;Value_males;Value_females
+011;Anbau einjähriger Pflanzen;18144;10603
+01110;Anbau von Getreide (ohne Reis), Hülsenfrüchten und Ölsaaten;5528;1925
+01131;Anbau von Gemüse und Melonen;6924;5142
+01132;Anbau von Kartoffeln sowie sonstigen Wurzeln und Knollen;3782;1281
+01140;Anbau von Zuckerrohr;;
+01150;Anbau von Tabak;;
+01160;Anbau von Faserpflanzen;;
+01191;Anbau von Zierpflanzen zum Schnitt;1032;1641
+01192;Erzeugung von Blumensamen;;
+01199;Anbau von sonstigen einjährigen Pflanzen a. n. g.;801;521
+012;Anbau mehrjähriger Pflanzen;7044;3836
+01210;Anbau von Wein- und Tafeltrauben;3835;2027
+01220;Anbau von tropischen und subtropischen Früchten;;
+01240;Anbau von Kern- und Steinobst;1835;897
+01251;Anbau von Erdbeeren;706;350
+01259;Anbau von sonstigem Obst (ohne Erdbeeren) und Nüssen;98;70
+01260;Anbau von ölhaltigen Früchten;;
+01270;Anbau von Pflanzen zur Herstellung von Getränken;7;
+01280;Anbau von Gewürzpflanzen, Pflanzen für aromatische, narkotische und pharmazeutische Zwecke;324;343
+01290;Anbau sonstiger mehrjähriger Pflanzen;220;141
+013;Betrieb von Baumschulen sowie Anbau von Pflanzen zu Vermehrungszwecken;10059;10944
+01301;Anbau von Zimmerpflanzen, Beet- und Balkonpflanzen;4322;7831
+01302;Betrieb von Baumschulen;5737;3113
+014;Tierhaltung;27557;15268
+01410;Haltung von Milchkühen;11460;4647
+01420;Haltung von anderen Rindern;2866;1045
+01430;Haltung von Pferden und Eseln;2850;3498
+01440;Haltung von Kamelen;11;12
+01450;Haltung von Schafen und Ziegen;533;260
+01460;Haltung von Schweinen;4898;1936
+01471;Haltung von Legehennen zur Konsumeiererzeugung;1403;1514
+01472;Betrieb von Brütereien;486;323
+01479;Sonstige Haltung von Nutzgeflügel;2317;1360
+01490;Sonstige Tierhaltung;733;673
+015;Gemischte Landwirtschaft;49789;20390
+01500;Gemischte Landwirtschaft;49789;20390
+016;Erbringung von landwirtschaftlichen Dienstleistungen;20932;7570
+01610;Erbringung von landwirtschaftlichen Dienstleistungen für den Pflanzenbau;10981;1892
+01620;Erbringung von landwirtschaftlichen Dienstleistungen für die Tierhaltung;5893;3388
+01630;Nach der Ernte anfallende Tätigkeiten in der pflanzlichen Erzeugung;1373;372
+01640;Saatgutaufbereitung;2685;1918
+017;Jagd, Fallenstellerei und damit verbundene Tätigkeiten;71;14
+01700;Jagd, Fallenstellerei und damit verbundene Tätigkeiten;71;14
+021;Forstwirtschaft;6227;1317
+02100;Forstwirtschaft;6227;1317
+022;Holzeinschlag;2267;387
+02200;Holzeinschlag;2267;387
+023;Sammeln von wild wachsenden Produkten (ohne Holz);34;17
+02300;Sammeln von wild wachsenden Produkten (ohne Holz);34;17
+024;Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag;7476;1678
+02400;Erbringung von Dienstleistungen für Forstwirtschaft und Holzeinschlag;7476;1678
+031;Fischerei;806;266
+03110;Meeresfischerei;540;144
+03120;Süßwasserfischerei;266;122
+032;Aquakultur;840;362
+03210;Meeresaquakultur;59;34
+03220;Süßwasseraquakultur;781;328
+051;Steinkohlenbergbau;3184;165
+05100;Steinkohlenbergbau;3184;165
+052;Braunkohlenbergbau;7798;1354
+05200;Braunkohlenbergbau;7798;1354
+061;Gewinnung von Erdöl;1214;428
+06100;Gewinnung von Erdöl;1214;428
+062;Gewinnung von Erdgas;1250;251
+06200;Gewinnung von Erdgas;1250;251
+071;Eisenerzbergbau;;
+07100;Eisenerzbergbau;;
+072;NE-Metallerzbergbau;;
+07210;Bergbau auf Uran- und Thoriumerze;;
+07290;Sonstiger NE-Metallerzbergbau;;75
+081;Gewinnung von Natursteinen, Kies, Sand, Ton und Kaolin;23560;3762
+08110;Gewinnung von Naturwerksteinen und Natursteinen, Kalk- und Gipsstein, Kreide und Schiefer;10880;1575
+08120;Gewinnung von Kies, Sand, Ton und Kaolin;12680;2187
+089;"Sonstiger Bergbau; Gewinnung von Steinen und Erden a. n. g.";9598;1106
+08910;Bergbau auf chemische und Düngemittelminerale;5844;603
+08920;Torfgewinnung;887;249
+08930;Gewinnung von Salz;2459;183
+08990;Gewinnung von Steinen und Erden a. n. g.;408;71
+091;Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas;4090;747
+09100;Erbringung von Dienstleistungen für die Gewinnung von Erdöl und Erdgas;4090;747
+099;Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden;6146;808
+09900;Erbringung von Dienstleistungen für den sonstigen Bergbau und die Gewinnung von Steinen und Erden;6146;808
+101;Schlachten und Fleischverarbeitung;90569;75342
+10110;Schlachten (ohne Schlachten von Geflügel);18268;6872
+10120;Schlachten von Geflügel;5160;3087
+10130;Fleischverarbeitung;67141;65383
+102;Fischverarbeitung;3633;3254
+10200;Fischverarbeitung;3633;3254
+103;Obst- und Gemüseverarbeitung;18606;10659
+10310;Kartoffelverarbeitung;2998;1738
+10320;Herstellung von Frucht- und Gemüsesäften;5382;2588
+10390;Sonstige Verarbeitung von Obst und Gemüse;10226;6333
+104;Herstellung von pflanzlichen und tierischen Ölen und Fetten;3232;1348
+10410;Herstellung von Ölen und Fetten (ohne Margarine u.ä. Nahrungsfette);2076;816
+10420;Herstellung von Margarine u. ä. Nahrungsfetten;1156;532
+105;Milchverarbeitung;31821;14657
+10510;Milchverarbeitung (ohne Herstellung von Speiseeis);29627;13207
+10520;Herstellung von Speiseeis;2194;1450
+106;Mahl- und Schälmühlen, Herstellung von Stärke und Stärkeerzeugnissen;8463;3169
+10610;Mahl- und Schälmühlen;6180;2396
+10620;Herstellung von Stärke und Stärkeerzeugnissen;2283;773
+107;Herstellung von Back- und Teigwaren;89406;152457
+10710;Herstellung von Backwaren (ohne Dauerbackwaren);78198;142222
+10720;Herstellung von Dauerbackwaren;8444;7956
+10730;Herstellung von Teigwaren;2764;2279
+108;Herstellung von sonstigen Nahrungsmitteln;64182;45841
+10810;Herstellung von Zucker;4276;1134
+10820;Herstellung von Süßwaren (ohne Dauerbackwaren);20382;19112
+10830;Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz;5202;2526
+10840;Herstellung von Würzmitteln und Soßen;6086;3562
+10850;Herstellung von Fertiggerichten;7025;5512
+10860;Herstellung von homogenisierten und diätetischen Nahrungsmitteln;2563;1745
+10890;Herstellung von sonstigen Nahrungsmitteln a. n. g.;18648;12250
+109;Herstellung von Futtermitteln;13180;5323
+10910;Herstellung von Futtermitteln für Nutztiere;7079;2064
+10920;Herstellung von Futtermitteln für sonstige Tiere;6101;3259
+110;Getränkeherstellung;51639;16573
+11010;Herstellung von Spirituosen;2218;1884
+11020;Herstellung von Traubenwein;5371;3131
+11030;Herstellung von Apfelwein und anderen Fruchtweinen;;
+11040;Herstellung von Wermutwein und sonstigen aromatisierten Weinen;;
+11050;Herstellung von Bier;24478;6507
+11060;Herstellung von Malz;747;222
+11070;"Herstellung von Erfrischungsgetränken; Gewinnung natürlicher Mineralwässer";18455;4656
+120;Tabakverarbeitung;5636;3074
+12000;Tabakverarbeitung;5636;3074
+131;Spinnstoffaufbereitung und Spinnerei;3198;2112
+13100;Spinnstoffaufbereitung und Spinnerei;3198;2112
+132;Weberei;6362;4042
+13200;Weberei;6362;4042
+133;Veredlung von Textilien und Bekleidung;7298;6362
+13300;Veredlung von Textilien und Bekleidung;7298;6362
+139;Herstellung von sonstigen Textilwaren;23975;19567
+13910;Herstellung von gewirktem und gestricktem Stoff;1887;3074
+13920;Herstellung von konfektionierten Textilwaren (ohne Bekleidung);5715;6199
+13930;Herstellung von Teppichen;1582;630
+13940;Herstellung von Seilerwaren;978;705
+13950;Herstellung von Vliesstoff und Erzeugnissen daraus (ohne Bekleidung);3951;1227
+13960;Herstellung von technischen Textilien;8269;5286
+13990;Herstellung von sonstigen Textilwaren a. n. g.;1593;2446
+141;Herstellung von Bekleidung (ohne Pelzbekleidung);10219;22123
+14110;Herstellung von Lederbekleidung;144;327
+14120;Herstellung von Arbeits- und Berufsbekleidung;1501;2300
+14131;Herstellung von gewebter Oberbekleidung für Herren und Knaben;1242;2963
+14132;Herstellung von gewebter Oberbekleidung für Damen und Mädchen;1407;5305
+14133;Herstellung von gewirkter und gestrickter Oberbekleidung;373;1471
+14141;Herstellung von gewebter Wäsche (ohne Miederwaren);487;1412
+14142;Herstellung von gewirkter und gestrickter Wäsche (ohne Miederwaren);217;627
+14143;Herstellung von Miederwaren;189;627
+14190;Herstellung von sonstiger Bekleidung und Bekleidungszubehör a. n. g.;4659;7091
+142;Herstellung von Pelzwaren;54;150
+14200;Herstellung von Pelzwaren;54;150
+143;Herstellung von Bekleidung aus gewirktem und gestricktem Stoff;1097;2626
+14310;Herstellung von Strumpfwaren;1036;2301
+14390;Herstellung von sonstiger Bekleidung aus gewirktem und gestricktem Stoff;61;325
+151;Herstellung von Leder und Lederwaren (ohne Herstellung von Lederbekleidung);4417;3521
+15110;"Herstellung von Leder und Lederfaserstoff; Zurichtung und Färben von Fellen";2248;738
+15120;Lederverarbeitung (ohne Herstellung von Lederbekleidung);2169;2783
+152;Herstellung von Schuhen;4666;5374
+15200;Herstellung von Schuhen;4666;5374
+161;Säge-, Hobel- und Holzimprägnierwerke;20344;3038
+16100;Säge-, Hobel- und Holzimprägnierwerke;20344;3038
+162;Herstellung von sonstigen Holz-, Kork-, Flecht- und Korbwaren (ohne Möbel);72594;15648
+16210;Herstellung von Furnier-, Sperrholz-, Holzfaser- und Holzspanplatten;13566;2657
+16220;Herstellung von Parketttafeln;1443;377
+16230;Herstellung von sonstigen Konstruktionsteilen, Fertigbauteilen, Ausbauelementen und Fertigteilbauten aus Holz;42782;8250
+16240;Herstellung von Verpackungsmitteln, Lagerbehältern und Ladungsträgern aus Holz;8796;1493
+16290;Herstellung von Holzwaren a. n. g., Kork-, Flecht- und Korbwaren (ohne Möbel);6007;2871
+171;Herstellung von Holz- und Zellstoff, Papier, Karton und Pappe;35117;7155
+17110;Herstellung von Holz- und Zellstoff;2602;848
+17120;Herstellung von Papier, Karton und Pappe;32515;6307
+172;Herstellung von Waren aus Papier, Karton und Pappe;62393;21891
+17210;Herstellung von Wellpapier und -pappe sowie von Verpackungsmitteln aus Papier, Karton und Pappe;39225;12657
+17220;Herstellung von Haushalts-, Hygiene- und Toilettenartikeln aus Zellstoff, Papier und Pappe;10883;3551
+17230;Herstellung von Schreibwaren und Bürobedarf aus Papier, Karton und Pappe;3167;1582
+17240;Herstellung von Tapeten;1232;395
+17290;Herstellung von sonstigen Waren aus Papier, Karton und Pappe;7886;3706
+181;Herstellung von Druckerzeugnissen;84297;45906
+18110;Drucken von Zeitungen;5452;3200
+18120;Drucken a. n. g.;63907;32611
+18130;Druck- und Medienvorstufe;10927;7104
+18140;Binden von Druckerzeugnissen und damit verbundene Dienstleistungen;4011;2991
+182;Vervielfältigung von bespielten Ton-, Bild- und Datenträgern;941;757
+18200;Vervielfältigung von bespielten Ton-, Bild- und Datenträgern;941;757
+191;Kokerei;;
+19100;Kokerei;;
+192;Mineralölverarbeitung;17739;4403
+19200;Mineralölverarbeitung;17739;4403
+201;Herstellung von chemischen Grundstoffen, Düngemitteln und Stickstoffverbindungen, Kunststoffen in Primärformen und synthetischem Kautschuk in Primärformen;151364;44570
+20110;Herstellung von Industriegasen;3747;1084
+20120;Herstellung von Farbstoffen und Pigmenten;8760;2425
+20130;Herstellung von sonstigen anorganischen Grundstoffen und Chemikalien;52627;16497
+20140;Herstellung von sonstigen organischen Grundstoffen und Chemikalien;50979;14526
+20150;Herstellung von Düngemitteln und Stickstoffverbindungen;1845;424
+20160;Herstellung von Kunststoffen in Primärformen;32869;9477
+20170;Herstellung von synthetischem Kautschuk in Primärformen;537;137
+202;Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln;2530;1379
+20200;Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln;2530;1379
+203;Herstellung von Anstrichmitteln, Druckfarben und Kitten;27623;9553
+20300;Herstellung von Anstrichmitteln, Druckfarben und Kitten;27623;9553
+204;Herstellung von Seifen, Wasch-, Reinigungs- und Körperpflegemitteln sowie von Duftstoffen;23191;19813
+20410;Herstellung von Seifen, Wasch-, Reinigungs- und Poliermitteln;6539;3699
+20420;Herstellung von Körperpflegemitteln und Duftstoffen;16652;16114
+205;Herstellung von sonstigen chemischen Erzeugnissen;38949;13653
+20510;Herstellung von pyrotechnischen Erzeugnissen;1272;677
+20520;Herstellung von Klebstoffen;5124;1623
+20530;Herstellung von etherischen Ölen;290;204
+20590;Herstellung von sonstigen chemischen Erzeugnissen a. n. g.;32263;11149
+206;Herstellung von Chemiefasern;8771;1675
+20600;Herstellung von Chemiefasern;8771;1675
+211;Herstellung von pharmazeutischen Grundstoffen;12101;9027
+21100;Herstellung von pharmazeutischen Grundstoffen;12101;9027
+212;Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen;64320;65920
+21200;Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen;64320;65920
+221;Herstellung von Gummiwaren;58747;14316
+22110;Herstellung und Runderneuerung von Bereifungen;23222;2959
+22190;Herstellung von sonstigen Gummiwaren;35525;11357
+222;Herstellung von Kunststoffwaren;245570;89837
+22210;Herstellung von Platten, Folien, Schläuchen und Profilen aus Kunststoffen;57054;15102
+22220;Herstellung von Verpackungsmitteln aus Kunststoffen;34091;12782
+22230;Herstellung von Baubedarfsartikeln aus Kunststoffen;33100;8876
+22290;Herstellung von sonstigen Kunststoffwaren;121325;53077
+231;Herstellung von Glas und Glaswaren;41978;12267
+23110;Herstellung von Flachglas;6751;1375
+23120;Veredlung und Bearbeitung von Flachglas;12774;3982
+23130;Herstellung von Hohlglas;11414;3091
+23140;Herstellung von Glasfasern und Waren daraus;4120;909
+23190;Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschließlich technischen Glaswaren;6919;2910
+232;Herstellung von feuerfesten keramischen Werkstoffen und Waren;5840;1047
+23200;Herstellung von feuerfesten keramischen Werkstoffen und Waren;5840;1047
+233;Herstellung von keramischen Baumaterialien;11443;2208
+23310;"Herstellung von keramischen Wand- und Bodenfliesen und 
+-platten";2727;925
+23320;Herstellung von Ziegeln und sonstiger Baukeramik;8716;1283
+234;Herstellung von sonstigen Porzellan- und keramischen Erzeugnissen;12898;7121
+23410;Herstellung von keramischen Haushaltswaren und Ziergegenständen;3503;3714
+23420;Herstellung von Sanitärkeramik;3315;831
+23430;Herstellung von Isolatoren und Isolierteilen aus Keramik;765;191
+23440;Herstellung von keramischen Erzeugnissen für sonstige technische Zwecke;4471;2157
+23490;Herstellung von sonstigen keramischen Erzeugnissen;844;228
+235;Herstellung von Zement, Kalk und gebranntem Gips;7390;1322
+23510;Herstellung von Zement;6742;1244
+23520;Herstellung von Kalk und gebranntem Gips;648;78
+236;Herstellung von Erzeugnissen aus Beton, Zement und Gips;58741;9271
+23610;Herstellung von Erzeugnissen aus Beton, Zement und Kalksandstein für den Bau;38877;6078
+23620;Herstellung von Gipserzeugnissen für den Bau;2130;307
+23630;Herstellung von Frischbeton (Transportbeton);9138;1100
+23640;Herstellung von Mörtel und anderem Beton (Trockenbeton);2357;542
+23650;Herstellung von Faserzementwaren;1235;197
+23690;Herstellung von sonstigen Erzeugnissen aus Beton, Zement und Gips a. n. g.;5004;1047
+237;Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.;14647;3597
+23700;Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.;14647;3597
+239;Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage sowie sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g.;12647;3055
+23910;Herstellung von Schleifkörpern und Schleifmitteln auf Unterlage;4741;1333
+23990;Herstellung von sonstigen Erzeugnissen aus nichtmetallischen Mineralien a. n. g.;7906;1722
+241;Erzeugung von Roheisen, Stahl und Ferrolegierungen;90372;10613
+24100;Erzeugung von Roheisen, Stahl und Ferrolegierungen;90372;10613
+242;Herstellung von Stahlrohren, Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl;24721;3996
+24201;Herstellung von Stahlrohren (ohne Präzisionsstahlrohre);7736;806
+24202;Herstellung von Präzisionsstahlrohren;7812;1349
+24203;Herstellung von Rohrform-, Rohrverschluss- und Rohrverbindungsstücken aus Stahl;9173;1841
+243;Sonstige erste Bearbeitung von Eisen und Stahl;14551;1843
+24310;Herstellung von Blankstahl;3189;329
+24320;"Herstellung von Kaltband mit einer Breite von weniger als 
+600 mm";1655;244
+24330;Herstellung von Kaltprofilen;3869;593
+24340;Herstellung von kaltgezogenem Draht;5838;677
+244;Erzeugung und erste Bearbeitung von NE-Metallen;59818;9928
+24410;Erzeugung und erste Bearbeitung von Edelmetallen;4013;1471
+24420;Erzeugung und erste Bearbeitung von Aluminium;28549;4329
+24430;Erzeugung und erste Bearbeitung von Blei, Zink und Zinn;;
+24440;Erzeugung und erste Bearbeitung von Kupfer;8945;1339
+24450;Erzeugung und erste Bearbeitung von sonstigen NE-Metallen;15350;2171
+24460;Aufbereitung von Kernbrennstoffen;;
+245;Gießereien;68183;8815
+24510;Eisengießereien;32684;2970
+24520;Stahlgießereien;6263;926
+24530;Leichtmetallgießereien;27261;4265
+24540;Buntmetallgießereien;1975;654
+251;Stahl- und Leichtmetallbau;164555;28119
+25110;Herstellung von Metallkonstruktionen;133068;21766
+25120;Herstellung von Ausbauelementen aus Metall;31487;6353
+252;"Herstellung von Metalltanks und -behältern; Herstellung von Heizkörpern und -kesseln für Zentralheizungen";18940;3503
+25210;Herstellung von Heizkörpern und -kesseln für Zentralheizungen;8266;1870
+25290;Herstellung von Sammelbehältern, Tanks u. ä. Behältern aus Metall;10674;1633
+253;Herstellung von Dampfkesseln (ohne Zentralheizungskessel);2648;409
+25300;Herstellung von Dampfkesseln (ohne Zentralheizungskessel);2648;409
+254;Herstellung von Waffen und Munition;5739;1774
+25400;Herstellung von Waffen und Munition;5739;1774
+255;Herstellung von Schmiede-, Press-, Zieh- und Stanzteilen, gewalzten Ringen und pulvermetallurgischen Erzeugnissen;51672;11534
+25501;Herstellung von Freiformschmiedestücken;3477;351
+25502;Herstellung von Gesenkschmiedeteilen;7572;922
+25503;Herstellung von Kaltfließpressteilen;1398;291
+25504;Herstellung von Press-, Zieh- und Stanzteilen;35560;9228
+25505;Herstellung von pulvermetallurgischen Erzeugnissen;3665;742
+256;"Oberflächenveredlung und Wärmebehandlung; Mechanik a. n. g.";214279;52406
+25610;Oberflächenveredlung und Wärmebehandlung;63456;19854
+25620;Mechanik a. n. g.;150823;32552
+257;Herstellung von Schneidwaren, Werkzeugen, Schlössern und Beschlägen aus unedlen Metallen;100705;29154
+25710;Herstellung von Schneidwaren und Bestecken aus unedlen Metallen;4251;2179
+25720;Herstellung von Schlössern und Beschlägen aus unedlen Metallen;25712;10789
+25731;Herstellung von Handwerkzeugen;11848;3813
+25732;Herstellung von Sägen und von Maschinenwerkzeugen für die Holzbearbeitung;3804;971
+25733;Herstellung von auswechselbaren Werkzeugen für die Metallbearbeitung a. n. g.;36700;7721
+25734;Herstellung von Geräten für die Landwirtschaft;2163;391
+25735;Herstellung von sonstigen Werkzeugen;16227;3290
+259;Herstellung von sonstigen Metallwaren;125555;35808
+25910;Herstellung von Fässern, Trommeln, Dosen, Eimern u. ä. Behältern aus Metall;2638;403
+25920;Herstellung von Verpackungen und Verschlüssen aus Eisen, Stahl und NE-Metall;9000;2710
+25930;Herstellung von Drahtwaren, Ketten und Federn;23193;6681
+25940;Herstellung von Schrauben und Nieten;14924;3424
+25991;Herstellung von nicht elektrischen Haushaltsartikeln aus Metall;2196;1084
+25992;Herstellung von Panzerschränken und Tresoranlagen;419;88
+25993;Herstellung von Metallwaren a. n. g.;73185;21418
+261;Herstellung von elektronischen Bauelementen und Leiterplatten;107504;54086
+26111;Herstellung von Solarzellen und Solarmodulen;1946;808
+26119;Herstellung von sonstigen elektronischen Bauelementen;100434;49375
+26120;Herstellung von bestückten Leiterplatten;5124;3903
+262;Herstellung von Datenverarbeitungsgeräten und peripheren Geräten;15720;5898
+26200;Herstellung von Datenverarbeitungsgeräten und peripheren Geräten;15720;5898
+263;Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik;22203;8204
+26300;Herstellung von Geräten und Einrichtungen der Telekommunikationstechnik;22203;8204
+264;Herstellung von Geräten der Unterhaltungselektronik;6597;3072
+26400;Herstellung von Geräten der Unterhaltungselektronik;6597;3072
+265;"Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen; Herstellung von Uhren";110575;45991
+26511;Herstellung von elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen;102758;41991
+26512;Herstellung von nicht elektrischen Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen;4465;1909
+26513;Herstellung von Prüfmaschinen;1654;414
+26520;Herstellung von Uhren;1698;1677
+266;Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten;6567;3587
+26600;Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten;6567;3587
+267;Herstellung von optischen und fotografischen Instrumenten und Geräten;26758;11296
+26700;Herstellung von optischen und fotografischen Instrumenten und Geräten;26758;11296
+268;Herstellung von magnetischen und optischen Datenträgern;1107;515
+26800;Herstellung von magnetischen und optischen Datenträgern;1107;515
+271;"Herstellung von Elektromotoren, Generatoren, Transformatoren, Elektrizitätsverteilungs- und 
+-schalteinrichtungen";103336;32243
+27110;Herstellung von Elektromotoren, Generatoren und Transformatoren;60077;17264
+27120;Herstellung von Elektrizitätsverteilungs- und -schalteinrichtungen;43259;14979
+272;Herstellung von Batterien und Akkumulatoren;8666;2775
+27200;Herstellung von Batterien und Akkumulatoren;8666;2775
+273;Herstellung von Kabeln und elektrischem Installationsmaterial;29519;13548
+27310;Herstellung von Glasfaserkabeln;787;347
+27320;Herstellung von sonstigen elektronischen und elektrischen Drähten und Kabeln;15682;6789
+27330;Herstellung von elektrischem Installationsmaterial;13050;6412
+274;Herstellung von elektrischen Lampen und Leuchten;23119;11073
+27400;Herstellung von elektrischen Lampen und Leuchten;23119;11073
+275;Herstellung von Haushaltsgeräten;28850;11387
+27510;Herstellung von elektrischen Haushaltsgeräten;28771;11355
+27520;Herstellung von nicht elektrischen Haushaltsgeräten;79;32
+279;Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a. n. g.;73695;30343
+27900;Herstellung von sonstigen elektrischen Ausrüstungen und Geräten a. n. g.;73695;30343
+281;Herstellung von nicht wirtschaftszweigspezifischen Maschinen;242377;52745
+28110;Herstellung von Verbrennungsmotoren und Turbinen (ohne Motoren für Luft- und Straßenfahrzeuge);35870;6860
+28120;Herstellung von hydraulischen und pneumatischen Komponenten und Systemen;33601;8620
+28130;Herstellung von Pumpen und Kompressoren a. n. g.;35916;8927
+28140;Herstellung von Armaturen a. n. g.;25319;8439
+28150;Herstellung von Lagern, Getrieben, Zahnrädern und Antriebselementen;111671;19899
+282;Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen;243175;54017
+28211;Herstellung von Solarwärmekollektoren;1150;357
+28219;Herstellung von sonstigen Öfen und Brennern;10264;2868
+28220;Herstellung von Hebezeugen und Fördermitteln;65598;11379
+28230;Herstellung von Büromaschinen (ohne Datenverarbeitungsgeräte und periphere Geräte);3305;1395
+28240;Herstellung von handgeführten Werkzeugen mit Motorantrieb;10483;3466
+28250;Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt;39952;9650
+28290;Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g.;112423;24902
+283;Herstellung von land- und forstwirtschaftlichen Maschinen;32268;4340
+28300;Herstellung von land- und forstwirtschaftlichen Maschinen;32268;4340
+284;Herstellung von Werkzeugmaschinen;130184;22928
+28410;Herstellung von Werkzeugmaschinen für die Metallbearbeitung;103062;18315
+28491;Herstellung von Werkzeugmaschinen zur Bearbeitung von Steinen, Beton und sonstigen mineralischen Stoffen;3586;494
+28492;Herstellung von Werkzeugmaschinen zur Bearbeitung von sonstigen harten Stoffen;6423;1040
+28493;Herstellung von Maschinenspannzeugen und sonstigem Zubehör für Werkzeugmaschinen;3847;949
+28499;Herstellung von sonstigen Werkzeugmaschinen a. n. g.;13266;2130
+289;Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige;256203;48097
+28910;Herstellung von Maschinen für die Metallerzeugung, von Walzwerkseinrichtungen und Gießmaschinen;12640;2150
+28921;Herstellung von Bergwerksmaschinen;4762;806
+28922;Herstellung von Bau- und Baustoffmaschinen;25816;4102
+28930;Herstellung von Maschinen für die Nahrungs- und Genussmittelerzeugung und die Tabakverarbeitung;24407;4854
+28940;Herstellung von Maschinen für die Textil- und Bekleidungsherstellung und die Lederverarbeitung;16484;3558
+28950;"Herstellung von Maschinen für die Papiererzeugung und 
+-verarbeitung";8043;1241
+28960;Herstellung von Maschinen für die Verarbeitung  von Kunststoffen und Kautschuk;15018;2797
+28990;Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g.;149033;28589
+291;Herstellung von Kraftwagen und Kraftwagenmotoren;399178;72375
+29101;Herstellung von Personenkraftwagen und Personenkraftwagenmotoren;347833;65449
+29102;Herstellung von Nutzkraftwagen und Nutzkraftwagenmotoren;51345;6926
+292;Herstellung von Karosserien, Aufbauten und Anhängern;39106;5441
+29200;Herstellung von Karosserien, Aufbauten und Anhängern;39106;5441
+293;Herstellung von Teilen und Zubehör für Kraftwagen;349592;86699
+29310;Herstellung elektrischer und elektronischer Ausrüstungsgegenstände für Kraftwagen;63567;25424
+29320;Herstellung von sonstigen Teilen und sonstigem Zubehör für Kraftwagen;286025;61275
+301;Schiff- und Bootsbau;19059;2677
+30110;Schiffbau (ohne Boots- und Yachtbau);11058;1639
+30120;Boots- und Yachtbau;8001;1038
+302;Schienenfahrzeugbau;25566;4452
+30201;Herstellung von Lokomotiven und anderen Schienenfahrzeugen;24374;4144
+30202;Herstellung von Eisenbahninfrastruktur;1192;308
+303;Luft- und Raumfahrzeugbau;81148;15681
+30300;Luft- und Raumfahrzeugbau;81148;15681
+304;Herstellung von militärischen Kampffahrzeugen;4683;773
+30400;Herstellung von militärischen Kampffahrzeugen;4683;773
+309;Herstellung von Fahrzeugen a. n. g.;12047;3217
+30910;Herstellung von Krafträdern;4024;701
+30920;Herstellung von Fahrrädern sowie von Behindertenfahrzeugen;3917;1762
+30990;Herstellung von sonstigen Fahrzeugen a. n. g.;4106;754
+310;Herstellung von Möbeln;92324;25679
+31011;Herstellung von Büromöbeln;10876;3296
+31012;Herstellung von Ladenmöbeln und sonstigen Objektmöbeln;17433;4050
+31020;Herstellung von Küchenmöbeln;16541;4063
+31030;Herstellung von Matratzen;2408;1929
+31091;Herstellung von Polstermöbeln;5019;3361
+31099;Herstellung von sonstigen Möbeln a. n. g.;40047;8980
+321;Herstellung von Münzen, Schmuck und ähnlichen Erzeugnissen;3440;5478
+32110;Herstellung von Münzen;341;252
+32120;Herstellung von Schmuck, Gold- und Silberschmiedewaren (ohne Fantasieschmuck);2930;4996
+32130;Herstellung von Fantasieschmuck;169;230
+322;Herstellung von Musikinstrumenten;3675;1721
+32200;Herstellung von Musikinstrumenten;3675;1721
+323;Herstellung von Sportgeräten;4079;1392
+32300;Herstellung von Sportgeräten;4079;1392
+324;Herstellung von Spielwaren;5838;5441
+32400;Herstellung von Spielwaren;5838;5441
+325;Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien;101853;95857
+32501;Herstellung von medizintechnischen Apparaten und Materialien a. n. g.;70070;47057
+32502;Herstellung von orthopädischen Erzeugnissen;12701;16124
+32503;Zahntechnische Laboratorien;19082;32676
+329;Herstellung von Erzeugnissen a. n. g.;16716;11489
+32910;Herstellung von Besen und Bürsten;2653;2706
+32990;Herstellung von sonstigen Erzeugnissen a. n. g.;14063;8783
+331;Reparatur von Metallerzeugnissen, Maschinen und Ausrüstungen;88050;15032
+33110;Reparatur von Metallerzeugnissen;5020;938
+33120;Reparatur von Maschinen;50034;8859
+33130;Reparatur von elektronischen und optischen Geräten;3312;902
+33140;Reparatur von elektrischen Ausrüstungen;4210;728
+33150;Reparatur und Instandhaltung von Schiffen, Booten und Yachten;3787;603
+33160;Reparatur und Instandhaltung von Luft- und Raumfahrzeugen;9169;1102
+33170;Reparatur und Instandhaltung von Fahrzeugen a. n. g.;9868;1442
+33190;Reparatur von sonstigen Ausrüstungen;2650;458
+332;Installation von Maschinen und Ausrüstungen a. n. g.;54442;12064
+33200;Installation von Maschinen und Ausrüstungen a. n. g.;54442;12064
+351;Elektrizitätsversorgung;146554;53089
+35111;Elektrizitätserzeugung ohne Verteilung;3330;973
+35112;Elektrizitätserzeugung mit Fremdbezug zur Verteilung;33783;12021
+35113;Erlektrizitätserzeugung ohne Fremdbezug zur Verteilung;22441;6441
+35120;Elektrizitätsübertragung;5514;1726
+35130;Elektrizitätsverteilung;74903;27526
+35140;Elektrizitätshandel;6583;4402
+352;Gasversorgung;18080;7045
+35211;Gaserzeugung ohne Verteilung;52;15
+35212;Gaserzeugung mit Fremdbezug zur Verteilung;3784;1599
+35213;Gaserzeugung ohne Fremdbezug zur Verteilung;2764;638
+35220;Gasverteilung durch Rohrleitungen;10079;3902
+35230;Gashandel durch Rohrleitungen;1401;891
+353;Wärme- und Kälteversorgung;6788;2347
+35300;Wärme- und Kälteversorgung;6788;2347
+360;Wasserversorgung;26946;10931
+36001;Wassergewinnung mit Fremdbezug zur Verteilung;10597;4135
+36002;Wassergewinnung ohne Fremdbezug zur Verteilung;9876;4207
+36003;Wasserverteilung ohne Gewinnung;6473;2589
+370;Abwasserentsorgung;25542;6723
+37001;Betrieb der Sammelkanalisation;10592;2326
+37002;Betrieb von Kläranlagen;14950;4397
+381;Sammlung von Abfällen;36606;6703
+38110;Sammlung nicht gefährlicher Abfälle;34884;6279
+38120;Sammlung gefährlicher Abfälle;1722;424
+382;Abfallbehandlung und -beseitigung;74204;14071
+38210;Behandlung und Beseitigung nicht gefährlicher Abfälle;67299;12620
+38220;Behandlung und Beseitigung gefährlicher Abfälle;6905;1451
+383;Rückgewinnung;39599;8816
+38310;Zerlegen von Schiffs- und Fahrzeugwracks und anderen Altwaren;3866;815
+38320;Rückgewinnung sortierter Werkstoffe;35733;8001
+390;Beseitigung von Umweltverschmutzungen und sonstige Entsorgung;2964;632
+39000;Beseitigung von Umweltverschmutzungen und sonstige Entsorgung;2964;632
+411;"Erschließung von Grundstücken; Bauträger";15081;11530
+41101;Erschließung von unbebauten Grundstücken;2032;762
+41102;Bauträger für Nichtwohngebäude;1289;798
+41103;Bauträger für Wohngebäude;11760;9970
+412;Bau von Gebäuden;238709;28825
+41201;Bau von Gebäuden (ohne Fertigteilbau);227475;26791
+41202;Errichtung von Fertigteilbauten;11234;2034
+421;Bau von Straßen und Bahnverkehrsstrecken;108769;10123
+42110;Bau von Straßen;88586;8081
+42120;Bau von Bahnverkehrsstrecken;13636;1380
+42130;Brücken- und Tunnelbau;6547;662
+422;Leitungstiefbau und Kläranlagenbau;65694;6564
+42210;Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau;48728;4728
+42220;Kabelnetzleitungstiefbau;16966;1836
+429;Sonstiger Tiefbau;23400;2437
+42910;Wasserbau;3944;467
+42990;Sonstiger Tiefbau a. n. g.;19456;1970
+431;Abbrucharbeiten und vorbereitende Baustellenarbeiten;43645;5469
+43110;Abbrucharbeiten;20836;2522
+43120;Vorbereitende Baustellenarbeiten;21336;2729
+43130;Test- und Suchbohrung;1473;218
+432;Bauinstallation;559010;95223
+43210;Elektroinstallation;207929;32732
+43220;Gas-, Wasser-, Heizungs- sowie Lüftungs- und Klimainstallation;255076;48086
+43291;Dämmung gegen Kälte, Wärme, Schall und Erschütterung;72247;9759
+43299;Sonstige Bauinstallation a. n. g.;23758;4646
+433;Sonstiger Ausbau;307967;56959
+43310;Anbringen von Stuckaturen, Gipserei und Verputzerei;29011;3338
+43320;Bautischlerei und -schlosserei;91485;16790
+43330;Fußboden-, Fliesen- und Plattenlegerei, Tapeziererei;67712;15377
+43341;Maler- und Lackierergewerbe;104106;17597
+43342;Glasergewerbe;9338;2395
+43390;Sonstiger Ausbau a. n. g.;6315;1462
+439;Sonstige spezialisierte Bautätigkeiten;241440;27828
+43911;Dachdeckerei und Bauspenglerei;71821;7806
+43912;Zimmerei und Ingenieurholzbau;50781;5864
+43991;Gerüstbau;25763;2406
+43992;Schornstein-, Feuerungs- und Industrieofenbau;6564;1133
+43999;Baugewerbe a. n. g.;86511;10619
+451;Handel mit Kraftwagen;146839;41522
+45110;Handel mit Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger;140332;39733
+45190;"Handel mit Kraftwagen mit einem Gesamtgewicht 
+von mehr als 3,5 t";6507;1789
+452;Instandhaltung und Reparatur von Kraftwagen;302925;71256
+45201;Lackieren von Kraftwagen;25049;4893
+45202;Autowaschanlagen;10767;2135
+45203;Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger (ohne Lackierung und Autowäsche);236804;59303
+45204;Instandhaltung und Reparatur von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t (ohne Lackierung und Autowäsche);30305;4925
+453;Handel mit Kraftwagenteilen und -zubehör;72872;22600
+45310;Großhandel mit Kraftwagenteilen und -zubehör;44565;15404
+45320;Einzelhandel mit Kraftwagenteilen und -zubehör;28307;7196
+454;"Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern";11283;4061
+45400;"Handel mit Krafträdern, Kraftradteilen und -zubehör; Instandhaltung und Reparatur von Krafträdern";11283;4061
+461;Handelsvermittlung;156352;97346
+46110;Handelsvermittlung von landwirtschaftlichen Grundstoffen, lebenden Tieren, textilen Rohstoffen und Halbwaren;2895;1876
+46120;Handelsvermittlung von Brennstoffen, Erzen, Metallen und technischen Chemikalien;6539;3345
+46131;Handelsvermittlung von Rohholz, Holzhalbwaren und Bauelementen aus Holz;2284;971
+46132;Handelsvermittlung von Baustoffen und Anstrichmitteln;7796;3214
+46141;Handelsvermittlung von Maschinen (ohne landwirtschaftliche Maschinen und Büromaschinen) und technischem Bedarf a. n. g.;29743;10655
+46142;Handelsvermittlung von Wasser- und Luftfahrzeugen;674;233
+46143;Handelsvermittlung von Geräten der Unterhaltungselektronik;3441;1807
+46144;Handelsvermittlung von Werkzeugen;2246;1169
+46145;Handelsvermittlung von Büromaschinen, Datenverarbeitungsgeräten, peripheren Geräten und Software;11364;4422
+46146;Handelsvermittlung von landwirtschaftlichen Maschinen und Geräten;3841;1003
+46147;Handelsvermittlung von Installationsbedarf für Gas, Wasser, Heizung und Klimatechnik;3942;1518
+46149;Handelsvermittlung von elektrotechnischen und elektronischen Erzeugnissen a. n. g.;10729;4585
+46151;Handelsvermittlung von Möbeln, Einrichtungsgegenständen und Antiquitäten;2718;2080
+46152;Handelsvermittlung von keramischen Erzeugnissen, Glaswaren, Holzwaren a. n. g., sowie Flecht- und Korbwaren;864;554
+46153;Handelsvermittlung von elektrischen Haushaltsgeräten;2477;1727
+46154;Handelsvermittlung von Eisen-, Metall- und Kunststoffwaren a. n. g.;4974;2329
+46155;Handelsvermittlung von Putz- und Reinigungsmitteln;936;678
+46161;Handelsvermittlung von Meterware für Bekleidung und Wäsche;110;182
+46162;Handelsvermittlung von Heim- und Haustextilien und Bodenbelägen;606;562
+46163;Handelsvermittlung von Bekleidung;1006;2146
+46164;Handelsvermittlung von Bekleidungszubehör;23;48
+46165;Handelsvermittlung von Schuhen, Lederwaren und Reisegepäck;603;723
+46171;Handelsvermittlung von Zucker und Süßwaren;543;425
+46172;Handelsvermittlung von Wein, Sekt und Spirituosen;1054;862
+46179;Handelsvermittlung von sonstigen Nahrungsmitteln, Getränken und Tabakwaren;7030;4859
+46181;Handelsvermittlung von feinmechanischen, Foto- und optischen Erzeugnissen;2602;1728
+46182;Handelsvermittlung von Uhren, Edelmetallwaren und Schmuck;295;1102
+46183;Handelsvermittlung von Spielwaren und Musikinstrumenten;453;520
+46184;Handelsvermittlung von pharmazeutischen Erzeugnissen, medizinischen und orthopädischen Artikeln und Laborbedarf, Ärztebedarf, Dentalbedarf, zahnärztlichen Instrumenten, Krankenhaus- und Altenpflegebedarf;16542;19192
+46185;Handelsvermittlung von kosmetischen Erzeugnissen und Körperpflegemitteln;1239;2696
+46186;Handelsvermittlung von Karton, Papier und Pappe, Schreibwaren, Bürobedarf, Geschenk- und Werbeartikeln, Verpackungsmitteln und Tapeten;2495;2358
+46187;Handelsvermittlung von Büchern, Zeitschriften, Zeitungen, Musikalien und sonstigen Druckerzeugnissen;2646;3186
+46189;Handelsvermittlung von sonstigen Waren a. n. g.;3648;2372
+46190;Handelsvermittlung von Waren ohne ausgeprägten Schwerpunkt;17994;12219
+462;Großhandel mit landwirtschaftlichen Grundstoffen und lebenden Tieren;25968;15236
+46210;Großhandel mit Getreide, Rohtabak, Saatgut und Futtermitteln;17590;8534
+46220;Großhandel mit Blumen und Pflanzen;5123;5039
+46230;Großhandel mit lebenden Tieren;2745;1349
+46240;Großhandel mit Häuten, Fellen und Leder;510;314
+463;Großhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren;140373;65038
+46310;Großhandel mit Obst, Gemüse und Kartoffeln;16567;6493
+46320;Großhandel mit Fleisch und Fleischwaren;12907;5635
+46330;Großhandel mit Milch, Milcherzeugnissen, Eiern, Speiseölen und Nahrungsfetten;4823;2611
+46340;Großhandel mit Getränken;26659;9519
+46350;Großhandel mit Tabakwaren;3816;1708
+46360;Großhandel mit Zucker, Süßwaren und Backwaren;6644;2984
+46370;Großhandel mit Kaffee, Tee, Kakao und Gewürzen;4151;3307
+46381;Großhandel mit Fisch und Fischerzeugnissen;2589;1155
+46382;Großhandel mit Mehl und Getreideprodukten;858;272
+46389;Großhandel mit Nahrungs- und Genussmitteln a. n. g.;22328;11459
+46391;Großhandel mit tiefgefrorenen Nahrungsmitteln, ohne ausgeprägten Schwerpunkt;3454;1090
+46399;Großhandel mit sonstigen Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt;35577;18805
+464;Großhandel mit Gebrauchs- und Verbrauchsgütern;142516;137012
+46410;Großhandel mit Textilien;4411;5898
+46421;Großhandel mit Bekleidung;9039;16348
+46422;Großhandel mit Schuhen;1474;1787
+46431;Großhandel mit Foto- und optischen Erzeugnissen;4354;2657
+46432;Großhandel mit elektrischen Haushaltsgeräten;17517;7774
+46433;Großhandel mit Geräten der Unterhaltungselektronik;9205;4667
+46441;Großhandel mit keramischen Erzeugnissen und Glaswaren;2422;1789
+46442;Großhandel mit Wasch-, Putz- und Reinigungsmitteln;4599;2469
+46450;Großhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln;3889;9424
+46461;Großhandel mit pharmazeutischen Erzeugnissen;17905;27856
+46462;Großhandel mit medizinischen und orthopädischen Artikeln, Dental- und Laborbedarf;23880;19934
+46470;Großhandel mit Möbeln, Teppichen, Lampen und Leuchten;6888;4585
+46480;Großhandel mit Uhren und Schmuck;2084;4137
+46491;Großhandel mit Spielwaren und Musikinstrumenten;3363;2987
+46492;Großhandel mit Fahrrädern, Fahrradteilen und -zubehör, Sport- und Campingartikeln (ohne Campingmöbel);5789;3106
+46493;Großhandel mit Lederwaren, Reisegepäck, Geschenk- und Werbeartikeln;3173;4396
+46494;Großhandel mit Karton, Papier, Pappe, Schreibwaren, Bürobedarf, Büchern, Zeitschriften und Zeitungen;17326;14165
+46495;Großhandel mit nicht elektrischen Haushaltsgeräten, Haushaltswaren aus Metall sowie sonstigen Gebrauchs- und Verbrauchsgütern a. n. g.;5198;3033
+465;Großhandel mit Geräten der Informations- und Kommunikationstechnik;38496;17613
+46510;Großhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software;22354;9324
+46520;Großhandel mit elektronischen Bauteilen und Telekommunikationsgeräten;16142;8289
+466;Großhandel mit sonstigen Maschinen, Ausrüstungen und Zubehör;111560;39076
+46610;Großhandel mit landwirtschaftlichen Maschinen und Geräten;11386;2900
+46620;Großhandel mit Werkzeugmaschinen;7167;2294
+46630;Großhandel mit Bergwerks-, Bau- und Baustoffmaschinen;10451;2357
+46640;Großhandel mit Textil-, Näh- und Strickmaschinen;373;188
+46650;Großhandel mit Büromöbeln;2421;1669
+46660;Großhandel mit sonstigen Büromaschinen und -einrichtungen;4280;1489
+46691;Großhandel mit Flurförderzeugen und Fahrzeugen a. n. g.;7047;1862
+46692;Großhandel mit sonstigen Maschinen;31926;10506
+46693;Großhandel mit sonstigen Ausrüstungen und Zubehör für Maschinen sowie mit technischem Bedarf;36509;15811
+467;Sonstiger Großhandel;254821;94775
+46711;Großhandel mit festen Brennstoffen;1430;441
+46712;Großhandel mit Mineralölerzeugnissen;12732;6118
+46721;Großhandel mit Eisenerzen, Eisen, Stahl, Eisen- und Stahlhalbzeug;28583;9790
+46722;Großhandel mit NE-Erzen, NE-Metallen und NE-Metallhalbzeug;5449;1768
+46731;Großhandel mit Holz, Baustoffen, Anstrichmitteln und Sanitärkeramik, ohne ausgeprägten Schwerpunkt;31775;11305
+46732;Großhandel mit Roh- und Schnittholz;4423;1221
+46733;Großhandel mit sonstigen Holzhalbwaren sowie Bauelementen aus Holz;6700;1993
+46734;Großhandel mit Baustoffen und Bauelementen aus mineralischen Stoffen;34488;10997
+46735;Großhandel mit Flachglas;2905;865
+46736;Großhandel mit Anstrichmitteln;8841;2522
+46737;Großhandel mit Sanitärkeramik;7734;3066
+46738;Großhandel mit Tapeten und Bodenbelägen (ohne Teppiche);2926;958
+46741;Großhandel mit Werkzeugen und Kleineisenwaren;32131;13011
+46742;Großhandel mit Installationsbedarf für Gas, Wasser und Heizung;29821;11414
+46743;Großhandel mit Metall- und Kunststoffwaren für Bauzwecke;12921;4537
+46750;Großhandel mit chemischen Erzeugnissen;17116;10086
+46760;Großhandel mit sonstigen Halbwaren;2357;1602
+46770;Großhandel mit Altmaterialien und Reststoffen;12489;3081
+469;Großhandel ohne ausgeprägten Schwerpunkt;43986;27774
+46901;Großhandel mit Rohstoffen, Halb- und Fertigwaren, ohne ausgeprägten Schwerpunkt;6541;3442
+46902;Großhandel mit Rohstoffen und Halbwaren, ohne ausgeprägten Schwerpunkt;1539;703
+46903;Großhandel mit Fertigwaren, ohne ausgeprägten Schwerpunkt;35906;23629
+471;Einzelhandel mit Waren verschiedener Art (in Verkaufsräumen);191994;580822
+47111;Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt;157938;484114
+47112;Sonstiger Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nahrungs- und Genussmittel, Getränke und Tabakwaren;10688;27552
+47191;Einzelhandel mit Waren verschiedener Art (ohne Nahrungsmittel);11613;32386
+47192;Einzelhandel mit Waren verschiedener Art, Hauptrichtung Nicht-Nahrungsmittel;11755;36770
+472;Eh. m. Nahrungsm.usw. (i.Verkaufsräumen);54900;152970
+47210;Einzelhandel mit Obst, Gemüse und Kartoffeln;4563;6110
+47220;Einzelhandel mit Fleisch und Fleischwaren;9139;23512
+47230;Einzelhandel mit Fisch, Meeresfrüchten und Fischerzeugnissen;1497;2694
+47240;Einzelhandel mit Back- und Süßwaren;16262;84072
+47250;Einzelhandel mit Getränken;13177;10627
+47260;Einzelhandel mit Tabakwaren;2295;4437
+47290;Sonstiger Einzelhandel mit Nahrungs- und Genussmitteln;7967;21518
+473;Einzelhandel mit Motorenkraftstoffen (Tankstellen);22098;37717
+47301;Einzelhandel in fremdem Namen mit Motorenkraftstoffen (Agenturtankstellen);18957;32262
+47302;Einzelhandel in eigenem Namen mit Motorenkraftstoffen (Freie Tankstellen);3141;5455
+474;Einzelhandel mit Geräten der Informations- und Kommunikationstechnik (in Verkaufsräumen);67107;34023
+47410;Einzelhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software;22187;7671
+47420;Einzelhandel mit Telekommunikationsgeräten;17252;12064
+47430;Einzelhandel mit Geräten der Unterhaltungselektronik;27668;14288
+475;Einzelhandel mit sonstigen Haushaltsgeräten, Textilien, Heimwerker- und Einrichtungsbedarf (in Verkaufsräumen);170921;152564
+47510;Einzelhandel mit Textilien;5080;16130
+47521;Einzelhandel mit Metall- und Kunststoffwaren a. n. g.;14802;6529
+47523;Einzelhandel mit Anstrichmitteln, Bau- und Heimwerkerbedarf;61526;45807
+47530;Einzelhandel mit Vorhängen, Teppichen, Fußbodenbelägen und Tapeten;8810;8590
+47540;Einzelhandel mit elektrischen Haushaltsgeräten;13952;6748
+47591;Einzelhandel mit Wohnmöbeln;57760;56862
+47592;Einzelhandel mit keramischen Erzeugnissen und Glaswaren;964;1879
+47593;Einzelhandel mit Musikinstrumenten und Musikalien;3222;1392
+47599;Einzelhandel mit Haushaltsgegenständen a. n. g.;4805;8627
+476;Einzelhandel mit Verlagsprodukten, Sportausrüstungen und Spielwaren (in Verkaufsräumen);38551;51206
+47610;Einzelhandel mit Büchern;3231;13415
+47621;Einzelhandel mit Zeitschriften und  Zeitungen;1201;3371
+47622;Einzelhandel mit Schreib- und Papierwaren, Schul- und Büroartikeln;4259;9272
+47630;Einzelhandel mit bespielten Ton- und Bildträgern;571;256
+47641;Einzelhandel mit Fahrrädern, Fahrradteilen und -zubehör;13033;4219
+47642;Einzelhandel mit Sport- und Campingartikeln (ohne Campingmöbel);13543;14346
+47650;Einzelhandel mit Spielwaren;2713;6327
+477;Einzelhandel mit sonstigen Gütern (in Verkaufsräumen);126864;610434
+47710;Einzelhandel mit Bekleidung;31780;196032
+47721;Einzelhandel mit Schuhen;5498;41623
+47722;Einzelhandel mit Lederwaren und Reisegepäck;776;3499
+47730;Apotheken;12310;145718
+47740;Einzelhandel mit medizinischen und orthopädischen Artikeln;21484;32385
+47750;Einzelhandel mit kosmetischen Erzeugnissen und Körperpflegemitteln;8006;77375
+47761;Einzelhandel mit Blumen, Pflanzen, Sämereien und Düngemitteln;9929;35827
+47762;Einzelhandel mit zoologischem Bedarf und lebenden Tieren;3630;9115
+47770;Einzelhandel mit Uhren und Schmuck;4589;17905
+47781;Augenoptiker;11359;33753
+47782;Einzelhandel mit Foto- und optischen Erzeugnissen (ohne Augenoptiker);2222;2255
+47783;Einzelhandel mit Kunstgegenständen, Bildern, kunstgewerblichen Erzeugnissen, Briefmarken, Münzen und Geschenkartikeln;2470;5974
+47789;Sonstiger Einzelhandel a. n. g. (in Verkaufsräumen);7242;4451
+47791;Einzelhandel mit Antiquitäten und antiken Teppichen;590;496
+47792;Antiquariate;116;170
+47799;Einzelhandel mit sonstigen Gebrauchtwaren;4863;3856
+478;Einzelhandel an Verkaufsständen und auf Märkten;3041;4403
+47810;Einzelhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und auf Märkten;2417;3480
+47820;Einzelhandel mit Textilien, Bekleidung und Schuhen an Verkaufsständen und auf Märkten;249;444
+47890;Einzelhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten;375;479
+479;Einzelhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten;79690;73833
+47911;Versand- und Internet-Einzelhandel mit Textilien, Bekleidung, Schuhen und Lederwaren;16810;25626
+47919;Sonstiger Versand- und Internet-Einzelhandel;53606;42936
+47991;Einzelhandel vom Lager mit Brennstoffen;2372;925
+47999;Sonstiger Einzelhandel a. n. g. (nicht in Verkaufsräumen);6902;4346
+491;Personenbeförderung im Eisenbahnfernverkehr;15929;6109
+49100;Personenbeförderung im Eisenbahnfernverkehr;15929;6109
+492;Güterbeförderung im Eisenbahnverkehr;20054;2706
+49200;Güterbeförderung im Eisenbahnverkehr;20054;2706
+493;Sonstige Personenbeförderung im Landverkehr;238046;57656
+49310;Personenbeförderung im Nahverkehr zu Lande (ohne Taxis);129502;29611
+49320;Betrieb von Taxis;63916;15243
+49391;Personenbeförderung im Omnibus-Linienfernverkehr;18060;4692
+49392;Personenbeförderung im Omnibus-Gelegenheitsverkehr;17709;5230
+49399;Personenbeförderung im Landverkehr a. n. g.;8859;2880
+494;Güterbeförderung im Straßenverkehr, Umzugstransporte;289184;35876
+49410;Güterbeförderung im Straßenverkehr;279582;34422
+49420;Umzugstransporte;9602;1454
+495;Transport in Rohrfernleitungen;1369;384
+49500;Transport in Rohrfernleitungen;1369;384
+501;Personenbeförderung in der See- und Küstenschifffahrt;1260;1420
+50100;Personenbeförderung in der See- und Küstenschifffahrt;1260;1420
+502;Güterbeförderung in der See- und Küstenschifffahrt;8365;3571
+50200;Güterbeförderung in der See- und Küstenschifffahrt;8365;3571
+503;Personenbeförderung in der Binnenschifffahrt;2391;800
+50300;Personenbeförderung in der Binnenschifffahrt;2391;800
+504;Güterbeförderung in der Binnenschifffahrt;2364;509
+50400;Güterbeförderung in der Binnenschifffahrt;2364;509
+511;Personenbeförderung in der Luftfahrt;24514;36850
+51100;Personenbeförderung in der Luftfahrt;24514;36850
+512;Güterbeförderung in der Luftfahrt und Raumtransport;3955;1310
+51210;Güterbeförderung in der Luftfahrt;;
+51220;Raumtransport;;
+521;Lagerei;118124;52624
+52100;Lagerei;118124;52624
+522;Erbringung von sonstigen Dienstleistungen für den Verkehr;456953;131440
+52211;Betrieb von Parkhäusern und Parkplätzen;3823;1647
+52212;Betrieb von Verkehrswegen für Straßenfahrzeuge;1464;311
+52213;Betrieb von Verkehrswegen für Schienenfahrzeuge;32560;8685
+52214;Betrieb von Bahnhöfen für den Personenverkehr einschließlich Omnibusbahnhöfe;1233;1117
+52215;Betrieb von Güterabfertigungseinrichtungen für Schienen- und Straßenfahrzeuge (ohne Frachtumschlag);;
+52219;Erbringung von sonstigen Dienstleistungen für den Landverkehr a. n. g.;7034;1777
+52221;Betrieb von Wasserstraßen;;
+52222;Betrieb von Häfen;4138;750
+52223;Lotsinnen und Lotsen in der Schifffahrt;648;70
+52229;Erbringung von sonstigen Dienstleistungen für die Schifffahrt a. n. g.;5740;1767
+52231;Betrieb von Flughäfen und Landeplätzen für Luftfahrzeuge;33922;10785
+52239;Erbringung von sonstigen Dienstleistungen für die Luftfahrt a. n. g.;5856;2829
+52240;Frachtumschlag;21841;4539
+52291;Spedition;320168;88474
+52292;Schiffsmaklerbüros und -agenturen;2913;2437
+52299;Erbringung von Dienstleistungen für den Verkehr a. n. g.;14730;6099
+53;Post-, Kurier- und Expressdienste3);201582;118043
+551;Hotels, Gasthöfe und Pensionen;106711;171923
+55101;Hotels (ohne Hotels garnis);90396;137699
+55102;Hotels garnis;8914;18786
+55103;Gasthöfe;5214;9758
+55104;Pensionen;2187;5680
+552;Ferienunterkünfte und ähnliche Beherbergungsstätten;7192;14898
+55201;Erholungs- und Ferienheime;1676;4719
+55202;Ferienzentren;1396;1979
+55203;Ferienhäuser und Ferienwohnungen;1845;4029
+55204;Jugendherbergen und Hütten;2275;4171
+553;Campingplätze;1872;2127
+55300;Campingplätze;1872;2127
+559;Sonstige Beherbergungsstätten;1009;2004
+55901;Privatquartiere;305;756
+55909;Sonstige Beherbergungsstätten a. n. g.;704;1248
+561;Restaurants, Gaststätten, Imbissstuben, Cafés, Eissalons u. Ä.;286804;247489
+56101;Restaurants mit herkömmlicher Bedienung;192749;150195
+56102;Restaurants mit Selbstbedienung;43212;44798
+56103;Imbissstuben u. Ä.;33505;21907
+56104;Cafés;13997;26166
+56105;Eissalons;3341;4423
+562;Caterer und Erbringung sonstiger Verpflegungsdienstleistungen;65458;111294
+56210;Event-Caterer;15665;12722
+56290;Erbringung sonstiger Verpflegungsdienstleistungen;49793;98572
+563;Ausschank von Getränken;22428;20796
+56301;Schankwirtschaften;15859;16087
+56302;Diskotheken und Tanzlokale;2136;1398
+56303;Bars;3426;2152
+56304;Vergnügungslokale;356;474
+56309;Sonstige getränkegeprägte Gastronomie;651;685
+581;"Verlegen von Büchern und Zeitschriften; sonstiges Verlagswesen (ohne Software)";42633;61431
+58110;Verlegen von Büchern;7383;15532
+58120;Verlegen von Adressbüchern und Verzeichnissen;974;1779
+58130;Verlegen von Zeitungen;19631;21668
+58140;Verlegen von Zeitschriften;12080;18734
+58190;Sonstiges Verlagswesen (ohne Software);2565;3718
+582;Verlegen von Software;24165;9470
+58210;Verlegen von Computerspielen;1179;422
+58290;Verlegen von sonstiger Software;22986;9048
+591;"Herstellung von Filmen und Fernsehprogrammen, deren Verleih und Vertrieb; Kinos";19924;17634
+59110;Herstellung von Filmen, Videofilmen und Fernsehprogrammen;11650;10040
+59120;Nachbearbeitung und sonstige Filmtechnik;2307;1743
+59130;Filmverleih und -vertrieb (ohne Videotheken);979;1165
+59140;Kinos;4988;4686
+592;"Tonstudios; Herstellung von Hörfunkbeiträgen; Verlegen von bespielten Tonträgern und Musikalien";2588;2439
+59201;Tonstudios und Herstellung von Hörfunkbeiträgen;670;367
+59202;Verlegen von bespielten Tonträgern;610;648
+59203;Verlegen von Musikalien;1308;1424
+601;Hörfunkveranstalter;18237;18165
+60100;Hörfunkveranstalter;18237;18165
+602;Fernsehveranstalter;11934;11551
+60200;Fernsehveranstalter;11934;11551
+611;Leitungsgebundene Telekommunikation;28450;7361
+61100;Leitungsgebundene Telekommunikation;28450;7361
+612;Drahtlose Telekommunikation;4020;2094
+61200;Drahtlose Telekommunikation;4020;2094
+613;Satellitentelekommunikation;700;219
+61300;Satellitentelekommunikation;700;219
+619;Sonstige Telekommunikation;11675;4752
+61901;Internetserviceprovider;6211;2557
+61909;Sonstige Telekommunikation a. n. g.;5464;2195
+620;Erbringung von Dienstleistungen der Informationstechnologie;523190;207891
+62011;Entwicklung und Programmierung von Internetpräsentationen;28890;15713
+62019;Sonstige Softwareentwicklung;230362;81747
+62020;Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie;138264;52445
+62030;Betrieb von Datenverarbeitungseinrichtungen für Dritte;48976;28833
+62090;Erbringung von sonstigen Dienstleistungen der Informationstechnologie;76698;29153
+631;"Datenverarbeitung, Hosting und damit verbundene Tätigkeiten; Webportale";26351;18513
+63110;Datenverarbeitung, Hosting und damit verbundene Tätigkeiten;11775;7364
+63120;Webportale;14576;11149
+639;Erbringung von sonstigen Informationsdienstleistungen;17576;13638
+63910;Korrespondenz- und Nachrichtenbüros;6319;6064
+63990;Erbringung von sonstigen Informationsdienstleistungen a. n. g.;11257;7574
+641;Zentralbanken und Kreditinstitute;234629;315768
+64110;Zentralbanken;2511;2752
+64191;Kreditbanken einschließlich Zweigstellen ausländischer Banken;76388;83347
+64192;Kreditinstitute des Sparkassensektors;86930;136558
+64193;Kreditinstitute des Genossenschaftssektors;58327;81050
+64194;Realkreditinstitute;1804;1731
+64195;Kreditinstitute mit Sonderaufgaben;4758;4907
+64196;Bausparkassen;3911;5423
+642;Beteiligungsgesellschaften;18246;14817
+64200;Beteiligungsgesellschaften;18246;14817
+643;Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen;1597;1107
+64300;Treuhand- und sonstige Fonds und ähnliche Finanzinstitutionen;1597;1107
+649;Sonstige Finanzierungsinstitutionen;17516;16368
+64910;Institutionen für Finanzierungsleasing;4875;4646
+64921;Spezialkreditinstitute (ohne Pfandkreditgeschäfte);3912;4647
+64922;Leihhäuser;351;495
+64991;Investmentaktiengesellschaften und Fonds von Kapitalanlagegesellschaften (ohne Geldmarktfonds);3796;2754
+64999;Sonstige Finanzierungsinstitutionen a. n. g.;4582;3826
+651;Versicherungen;80871;80568
+65110;Lebensversicherungen;12972;13943
+65121;Krankenversicherungen;16850;15520
+65122;Schaden- und Unfallversicherungen;51049;51105
+652;Rückversicherungen;3452;3169
+65200;Rückversicherungen;3452;3169
+653;Pensionskassen und Pensionsfonds;1070;1410
+65300;Pensionskassen und Pensionsfonds;1070;1410
+661;Mit Finanzdienstleistungen verbundene Tätigkeiten;25579;28386
+66110;Effekten- und Warenbörsen;2238;1490
+66120;Effekten- und Warenhandel;1139;763
+66190;Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten;22202;26133
+662;Mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten;48102;74793
+66210;Risiko- und Schadensbewertung;2180;1646
+66220;Tätigkeit von Versicherungsmaklerinnen und -maklern;44096;71113
+66290;Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten;1826;2034
+663;Fondsmanagement;2045;1433
+66300;Fondsmanagement;2045;1433
+681;Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen;6634;5882
+68101;Kauf und Verkauf von eigenen Wohngrundstücken, Wohngebäuden und Wohnungen;5446;4764
+68102;Kauf und Verkauf von eigenen Gewerbegrundstücken und Nichtwohngebäuden;1188;1118
+682;Vermietung, Verpachtung von eigenen oder geleasten Grundstücken, Gebäuden und Wohnungen;61079;56263
+68201;Vermietung, Verpachtung von eigenen oder geleasten Wohngrundstücken, Wohngebäuden und Wohnungen;45442;44342
+68202;Vermietung, Verpachtung von eigenen oder geleasten Gewerbegrundstücken und Nichtwohngebäuden;15637;11921
+683;Vermittlung und Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte;64640;76626
+68311;Vermittlung von Wohngrundstücken, Wohngebäuden und Wohnungen für Dritte;14961;21478
+68312;Vermittlung von Gewerbegrundstücken und Nichtwohngebäuden für Dritte;4381;4374
+68321;Verwaltung von Wohngrundstücken, Wohngebäuden und Wohnungen für Dritte;34405;42388
+68322;Verwaltung von Gewerbegrundstücken und Nichtwohngebäuden für Dritte;10893;8386
+691;Rechtsberatung;28921;135987
+69101;Rechtsanwaltskanzleien mit Notariat;5349;29643
+69102;Rechtsanwaltskanzleien ohne Notariat;19038;85160
+69103;Notariate;1272;11180
+69104;Patentanwaltskanzleien;2010;6657
+69109;Erbringung sonstiger juristischer Dienstleistungen a. n. g.;1252;3347
+692;"Wirtschaftsprüfung und Steuerberatung; Buchführung";84948;227833
+69201;Praxen von Wirtschaftsprüferinnen und -prüfern, Wirtschaftsprüfungsgesellschaften;31463;35843
+69202;Praxen von vereidigten Buchprüferinnen und -prüfern, Buchprüfungsgesellschaften;323;1089
+69203;Praxen von Steuerbevollmächtigten, Steuerberaterinnen und -beratern, Steuerberatungsgesellschaften;44715;175797
+69204;Buchführung (ohne Datenverarbeitungsdienste);8447;15104
+701;Verwaltung und Führung von Unternehmen und Betrieben;259354;259620
+70101;Managementtätigkeiten von Holdinggesellschaften;22260;18698
+70109;Sonstige Verwaltung und Führung von Unternehmen und Betrieben;237094;240922
+702;Public-Relations- und Unternehmensberatung;107715;90372
+70210;Public-Relations-Beratung;3153;6367
+70220;Unternehmensberatung;104562;84005
+711;Architektur- und Ingenieurbüros;320381;175326
+71111;Architekturbüros für Hochbau;33169;42805
+71112;Büros für Innenarchitektur;1446;2273
+71113;Architekturbüros für Orts-, Regional- und Landesplanung;3667;4410
+71114;Architekturbüros für Garten- und Landschaftsgestaltung;2696;4019
+71121;Ingenieurbüros für bautechnische Gesamtplanung;62508;40657
+71122;Ingenieurbüros für technische Fachplanung und Ingenieurdesign;192564;68317
+71123;Vermessungsbüros;9716;4152
+71129;Sonstige Ingenieurbüros;14615;8693
+712;Technische, physikalische und chemische Untersuchung;67467;35405
+71200;Technische, physikalische und chemische Untersuchung;67467;35405
+721;Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin;126990;92701
+72110;Forschung und Entwicklung im Bereich Biotechnologie;10743;10941
+72190;Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin;116247;81760
+722;Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften;4841;6612
+72200;Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften;4841;6612
+731;Werbung;58404;69961
+73110;Werbeagenturen;52579;63065
+73120;Vermarktung und Vermittlung von Werbezeiten und Werbeflächen;5825;6896
+732;Markt- und Meinungsforschung;8029;9328
+73200;Markt- und Meinungsforschung;8029;9328
+741;Ateliers für Textil-, Schmuck-, Grafik- u. ä. Design;7547;8382
+74101;Industrie-, Produkt- und Mode-Design;2801;2945
+74102;Grafik- und Kommunikationsdesign;3087;3747
+74103;Interior Design und Raumgestaltung;1659;1690
+742;Fotografie und Fotolabors;4424;7292
+74201;Fotografie;2662;5344
+74202;Fotolabors;1762;1948
+743;Übersetzen und Dolmetschen;1787;3533
+74301;Übersetzen;1511;2991
+74302;Dolmetschen;276;542
+749;Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.;20131;14496
+74900;Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.;20131;14496
+750;Veterinärwesen;3575;30005
+75001;Tierarztpraxen;2417;26082
+75009;Sonstiges Veterinärwesen;1158;3923
+771;Vermietung von Kraftwagen;14821;8433
+77110;Vermietung von Kraftwagen mit einem Gesamtgewicht von 3,5 t oder weniger;12616;7625
+77120;Vermietung von Kraftwagen mit einem Gesamtgewicht von mehr als 3,5 t;2205;808
+772;Vermietung von Gebrauchsgütern;14615;8332
+77210;Vermietung von Sport- und Freizeitgeräten;900;483
+77220;Videotheken;293;311
+77290;Vermietung von sonstigen Gebrauchsgütern;13422;7538
+773;Vermietung von Maschinen, Geräten und sonstigen beweglichen Sachen;27502;7148
+77310;Vermietung von landwirtschaftlichen Maschinen und Geräten;1144;353
+77320;Vermietung von Baumaschinen und -geräten;13747;2608
+77330;"Vermietung von Büromaschinen, Datenverarbeitungsgeräten und 
+-einrichtungen";552;404
+77340;Vermietung von Wasserfahrzeugen;416;283
+77350;Vermietung von Luftfahrzeugen;118;63
+77390;Vermietung von sonstigen Maschinen, Geräten und beweglichen Sachen a. n. g.;11525;3437
+774;Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights);3394;3285
+77400;Leasing von nichtfinanziellen immateriellen Vermögensgegenständen (ohne Copyrights);3394;3285
+781;Vermittlung von Arbeitskräften;13710;11156
+78100;Vermittlung von Arbeitskräften;13710;11156
+782;Befristete Überlassung von Arbeitskräften;533064;207697
+78200;Befristete Überlassung von Arbeitskräften;533064;207697
+783;Sonstige Überlassung von Arbeitskräften;23362;8985
+78300;Sonstige Überlassung von Arbeitskräften;23362;8985
+791;Reisebüros und Reiseveranstalter;20591;50882
+79110;Reisebüros;12919;37481
+79120;Reiseveranstalter;7672;13401
+799;Erbringung sonstiger Reservierungsdienstleistungen;4841;7566
+79900;Erbringung sonstiger Reservierungsdienstleistungen;4841;7566
+801;Private Wach- und Sicherheitsdienste;132938;37560
+80100;Private Wach- und Sicherheitsdienste;132938;37560
+802;Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen;5358;1358
+80200;Sicherheitsdienste mithilfe von Überwachungs- und Alarmsystemen;5358;1358
+803;Detekteien;2028;645
+80300;Detekteien;2028;645
+811;Hausmeisterdienste;70140;30131
+81100;Hausmeisterdienste;70140;30131
+812;Reinigung von Gebäuden, Straßen und Verkehrsmitteln;206870;356529
+81210;Allgemeine Gebäudereinigung;153012;332212
+81221;Schornsteinreinigung;8906;2659
+81229;Sonstige spezielle Reinigung von Gebäuden und Maschinen;27194;16079
+81291;Reinigung von Verkehrsmitteln;4996;1137
+81292;Desinfektion und Schädlingsbekämpfung;3296;1191
+81299;Sonstige Reinigung a. n. g.;9466;3251
+813;Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen;103930;21949
+81301;Garten- und Landschaftsbau;101191;19814
+81309;Erbringung von sonstigen gärtnerischen Dienstleistungen;2739;2135
+821;Sekretariats- und Schreibdienste, Copy-Shops;4121;7771
+82110;Allgemeine Sekretariats- und Schreibdienste;2429;5386
+82190;"Copy-Shops; Dokumentenvorbereitung und Erbringung sonstiger spezieller Sekretariatsdienste";1692;2385
+822;Call Center;56911;71076
+82200;Call Center;56911;71076
+823;Messe-, Ausstellungs- und Kongressveranstalter;17222;15064
+82300;Messe-, Ausstellungs- und Kongressveranstalter;17222;15064
+829;Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen;108630;100000
+82911;Inkassobüros;5556;12715
+82912;Auskunfteien;1929;2771
+82920;Abfüllen und Verpacken;21800;17013
+82991;Versteigerungsgewerbe;1455;1542
+82999;Erbringung von anderen wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a. n. g.;77890;65959
+841;Öffentliche Verwaltung;490384;831765
+84110;Allgemeine öffentliche Verwaltung;412744;749419
+84120;Öffentliche Verwaltung auf den Gebieten Gesundheitswesen, Bildung, Kultur und Sozialwesen;27120;56641
+84130;Wirtschaftsförderung, -ordnung und -aufsicht;50520;25705
+842;Auswärtige Angelegenheiten, Verteidigung, Rechtspflege, öffentliche Sicherheit und Ordnung;82141;108685
+84210;Auswärtige Angelegenheiten;4022;6467
+84220;Verteidigung;34372;21753
+84230;Rechtspflege;13458;46979
+84240;Öffentliche Sicherheit und Ordnung;27221;32259
+84250;Feuerwehren;3068;1227
+843;Sozialversicherung;85173;230197
+84300;Sozialversicherung;85173;230197
+851;Kindergärten und Vorschulen;28632;379934
+85101;Kindergärten;28381;378880
+85102;Vorklassen, Schulkindergärten;251;1054
+852;Grundschulen;13160;62687
+85200;Grundschulen;13160;62687
+853;Weiterführende Schulen;95603;206689
+85311;Allgemein bildende weiterführende Schulen Sekundarbereich I;35843;102948
+85312;Allgemein bildende weiterführende Schulen Sekundarbereich II;19419;41762
+85320;Berufsbildende weiterführende Schulen;40341;61979
+854;Tertiärer und post-sekundärer, nicht tertiärer Unterricht;160313;172923
+85410;Post-sekundärer, nicht tertiärer Unterricht;1442;2190
+85421;Universitäten;124612;125785
+85422;Allgemeine Fachhochschulen;26252;28849
+85423;Verwaltungsfachhochschulen;678;1234
+85424;Berufsakademien, Fachakademien, Schulen des Gesundheitswesens;7329;14865
+855;Sonstiger Unterricht;80961;113609
+85510;Sport- und Freizeitunterricht;6090;7230
+85520;Kulturunterricht;1577;3164
+85530;Fahr- und Flugschulen;11839;6962
+85591;Allgemeine und politische Erwachsenenbildung;4608;11987
+85592;Berufliche Erwachsenenbildung;40013;54213
+85599;Unterricht a. n. g.;16834;30053
+856;Erbringung von Dienstleistungen für den Unterricht;384;820
+85600;Erbringung von Dienstleistungen für den Unterricht;384;820
+861;Krankenhäuser;344463;1090955
+86101;Krankenhäuser (ohne Hochschulkliniken, Vorsorge- und Rehabilitationskliniken);246669;816062
+86102;Hochschulkliniken;70076;181154
+86103;Vorsorge- und Rehabilitationskliniken;27718;93739
+862;Arzt- und Zahnarztpraxen;43265;671390
+86210;Arztpraxen für Allgemeinmedizin;6244;121176
+86220;Facharztpraxen;21834;307048
+86230;Zahnarztpraxen;15187;243166
+869;Gesundheitswesen a. n. g.;97277;256274
+86901;"Praxen von psychologischen Psychotherapeutinnen und 
+-therapeuten";1492;7783
+86902;Massagepraxen, Krankengymnastikpraxen, Praxen von medizinischen Bademeisterinnen und Bademeistern, Hebammen und Entbindungspflegern sowie von verwandten Berufen;26083;108882
+86903;Heilpraktikerpraxen;624;3332
+86909;Sonstige selbstständige Tätigkeiten im Gesundheitswesen;69078;136277
+871;Pflegeheime;109337;460352
+87100;Pflegeheime;109337;460352
+872;Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.;5357;12746
+87200;Stationäre Einrichtungen zur psychosozialen Betreuung, Suchtbekämpfung u. Ä.;5357;12746
+873;"Altenheime; Alten- und Behindertenwohnheime";75185;300662
+87300;"Altenheime; Alten- und Behindertenwohnheime";75185;300662
+879;Sonstige Heime (ohne Erholungs- und Ferienheime);26073;68166
+87900;Sonstige Heime (ohne Erholungs- und Ferienheime);26073;68166
+881;Soziale Betreuung älterer Menschen und Behinderter;290042;511309
+88101;Ambulante soziale Dienste;63467;333899
+88102;Sonstige soziale Betreuung älterer Menschen und Behinderter;226575;177410
+889;Sonstiges Sozialwesen (ohne Heime);140053;409399
+88910;Tagesbetreuung von Kindern;6332;51560
+88990;Sonstiges Sozialwesen a. n. g.;133721;357839
+900;Kreative, künstlerische und unterhaltende Tätigkeiten;39753;32880
+90011;Theaterensembles;4946;4498
+90012;Ballettgruppen, Orchester, Kapellen und Chöre;3110;2502
+90013;Selbstständige Artistinnen und Artisten, Zirkusgruppen;507;317
+90014;Selbstständige Bühnen-, Film-, Hörfunk- und Fernsehkünstlerinnen und -künstler sowie sonstige darstellende Kunst;328;507
+90020;Erbringung von Dienstleistungen für die darstellende Kunst;5295;2041
+90031;Selbstständige Komponistinnen, Komponisten, Musikbearbeiterinnen und Musikbearbeiter;109;114
+90032;Selbstständige Schriftstellerinnen und Schriftsteller;292;491
+90033;Selbstständige bildende Künstlerinnen und Künstler;622;640
+90034;Selbstständige Restauratorinnen und Restauratoren;925;661
+90035;Selbstständige Journalistinnen und Journalisten, Pressefotografinnen und Pressefotografen;424;634
+90041;Theater- und Konzertveranstalter;3898;4144
+90042;Opern- und Schauspielhäuser, Konzerthallen und ähnliche Einrichtungen;18670;15762
+90043;Varietés und Kleinkunstbühnen;627;569
+910;Bibliotheken, Archive, Museen, botanische und zoologische Gärten;14669;22091
+91010;Bibliotheken und Archive;4098;8716
+91020;Museen;6071;8989
+91030;Betrieb von historischen Stätten und Gebäuden und ähnlichen Attraktionen;815;821
+91040;Botanische und zoologische Gärten sowie Naturparks;3685;3565
+920;Spiel-, Wett- und Lotteriewesen;20617;38104
+92001;Spielhallen und Betrieb von Spielautomaten;12025;30547
+92002;Spielbanken und Spielklubs;3620;2366
+92003;Wett-, Toto- und Lotteriewesen;4972;5191
+931;Erbringung von Dienstleistungen des Sports;56567;48263
+93110;Betrieb von Sportanlagen;18206;15414
+93120;Sportvereine;19859;12009
+93130;Fitnesszentren;13833;17366
+93190;Erbringung von sonstigen Dienstleistungen des Sports;4669;3474
+932;Erbringung von sonstigen Dienstleistungen der Unterhaltung und der Erholung;11291;8782
+93210;Vergnügungs- und Themenparks;6691;4891
+93290;Erbringung von Dienstleistungen der Unterhaltung und der Erholung a. n. g.;4600;3891
+941;Wirtschafts- und Arbeitgeberverbände, Berufsorganisationen;31854;51030
+94110;Wirtschafts- und Arbeitgeberverbände;18961;25961
+94120;Berufsorganisationen;12893;25069
+942;Arbeitnehmervereinigungen;3984;6440
+94200;Arbeitnehmervereinigungen;3984;6440
+949;"Kirchliche Vereinigungen; politische Parteien sowie sonstige Interessenvertretungen und Vereinigungen a. n. g.";120699;264765
+94910;Kirchliche und sonstige religiöse Vereinigungen;49919;129104
+94920;Politische Parteien und Vereinigungen;1399;1714
+94991;Organisationen der Bildung, Wissenschaft und Forschung;22086;42626
+94992;Organisationen der Kultur;7772;13103
+94993;Verbraucherorganisationen;5245;7220
+94994;Jugendorganisationen;2839;5992
+94999;Interessenvertretungen und Vereinigungen a. n. g.;31439;65006
+951;Reparatur von Datenverarbeitungs- und Telekommunikationsgeräten;9085;2432
+95110;Reparatur von Datenverarbeitungsgeräten und peripheren Geräten;6074;1725
+95120;Reparatur von Telekommunikationsgeräten;3011;707
+952;Reparatur von Gebrauchsgütern;14853;7570
+95210;Reparatur von Geräten der Unterhaltungselektronik;4160;1525
+95220;Reparatur von elektrischen Haushaltsgeräten und Gartengeräten;4266;1389
+95230;Reparatur von Schuhen und Lederwaren;695;699
+95240;Reparatur von Möbeln und Einrichtungsgegenständen;1676;763
+95250;Reparatur von Uhren und Schmuck;340;724
+95290;Reparatur von sonstigen Gebrauchsgütern;3716;2470
+960;Erbringung von sonstigen überwiegend persönlichen Dienstleistungen;89180;239813
+96010;Wäscherei und chemische Reinigung;16860;33212
+96021;Frisörsalons;20190;135249
+96022;Kosmetiksalons;2364;17832
+96031;Bestattungsinstitute;6765;6148
+96032;Friedhöfe und Krematorien;4972;2814
+96040;Saunas, Solarien, Bäder u. Ä.;6018;11812
+96090;Erbringung von sonstigen Dienstleistungen a. n. g.;32011;32746
+970;Private Haushalte mit Hauspersonal;6897;41222
+97000;Private Haushalte mit Hauspersonal;6897;41222
+981;Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt;414;55
+98100;Herstellung von Waren durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt;414;55
+982;Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt;105;157
+98200;Erbringungen von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt;105;157
+990;Exterritoriale Organisationen und Körperschaften;10796;7123
+99000;Exterritoriale Organisationen und Körperschaften;10796;7123
+ZZZ;Keine Angabe;746;547
+ZZZZZ;Keine Angabe;746;547
